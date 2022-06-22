@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marirochaprof
 - 👀  Sou prof de Língua Portuguesa , Pensamento Computacional e Programa Mais Aprendizagem
-- 🌱   Participo como aluna no Curso Formadores em Ação
+- 🌱   Participo como aluna no Curso Formadores  em Ação        
 - 💞️  Amo minha profissão
 - 📫  Resido em Enéas Marques - Pr
 <!---
